@@ -1,0 +1,22 @@
+{
+  "name": "olymp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "test",
+    "start": "PressMePls.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "olymp"
+  },
+  "keywords": [
+    "Olimp"
+  ],
+  "author": "BanAnna",
+  "license": "ISC",
+  "devDependencies": {
+    "sqlite3": "^4.0.4"
+  }
+}
